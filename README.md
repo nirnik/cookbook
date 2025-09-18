@@ -1,4 +1,3 @@
-cookbook demo video : https://drive.google.com/file/d/1dZdgZ2O3bknd0ehvcWPRC4QFuhcOR0B5/view?usp=sharing
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
